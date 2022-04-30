@@ -1,0 +1,135 @@
+"Phrases"
+{
+	"Unnamed"
+	{
+		"en"			"Unnamed"
+		"tr"			"İsimsiz"
+	}
+
+	"Unknown Steam ID"
+	{
+		"en"			"Unknown Steam ID"
+		"tr"			"Bilinmeyen Steam ID"
+	}
+
+    "Unknown Country"
+    {
+		"en"			"Unknown Country :flag_white:"
+		"tr"			"Bilinmeyen Ülke :flag_white:"
+	}
+
+    "Admin Connect Title"
+    {
+		"en"			":star: Admin Connect to Server"
+		"tr"			":star: Admin Sunucuya Giriş Yaptı"
+	}
+
+    "Admin Disconnect Title"
+    {
+		"en"			":star: Admin Disconnect From Server"
+		"tr"			":star: Admin Sunucudan Çıkış Yaptı"
+	}
+
+    "Player Connect Title"
+    {
+		"en"			":nazar_amulet: Player Connect to Server"
+		"tr"			":nazar_amulet: Oyuncu Sunucuya Giriş Yaptı"
+	}
+
+    "Player Disconnect Title"
+    {
+		"en"			":nazar_amulet: Player Disconnect From Server"
+		"tr"			":nazar_amulet: Oyuncu Sunucudan Çıkış Yaptı"
+	}
+
+    "Username"
+    {
+		"en"			"Username"
+		"tr"			"Kullanıcı Adı"
+	}
+
+    "Username Value"
+    {
+        "#format" 		"{1:s}"
+		"en"			"{1}"
+		"tr"			"{1}"
+	}
+	
+    "Steam ID"
+    {
+		"en"			"Steam ID"
+		"tr"			"Steam ID"
+	}
+
+    "Steam ID Value"
+    {
+        "#format" 		"{1:s}"
+		"en"			"{1}"
+		"tr"			"{1}"
+	}
+
+    "Country"
+    {
+		"en"			"Country"
+		"tr"			"Ülke"
+	}
+
+    "Country Value"
+    {
+        "#format" 		"{1:s}"
+		"en"			"{1}"
+		"tr"			"{1}"
+	}
+
+    "Map Name"
+    {
+		"en"			"Map Name"
+		"tr"			"Harita Adı"
+	}
+
+    "Map Name Value"
+    {
+        "#format" 		"{1:s}"
+		"en"			"{1}"
+		"tr"			"{1}"
+	}
+
+    "Time Played"
+    {
+		"en"			"Time Played"
+		"tr"			"Oynadığı Süre"
+	}
+
+    "Time Played Value"
+    {
+        "#format" 		"{1:d}"
+		"en"			"{1} Minutes"
+		"tr"			"{1} Dakika"
+	}
+
+    "Players"
+    {
+		"en"			"Players"
+		"tr"			"Oyuncular"
+	}
+
+    "Players Value"
+    {
+        "#format" 		"{1:d}{2:d}"
+		"en"			"{1} / {2}"
+		"tr"			"{1} / {2}"
+	}
+
+    "Footer"
+    {
+        "#format" 		"{1:s}"
+		"en"			"• Sent {1}"
+		"tr"			"• Gönderildi {1}"
+	}
+
+    "Get Avatar Error"
+    {
+		"en"			"HTTP Request to fetch player profile data failed!"
+		"tr"			"Oyuncunun profil verilerini almak için HTTP İsteği başarısız oldu!"
+	}
+}
